@@ -1,0 +1,62 @@
+
+body,
+html {
+  width: 100%;
+  height: 100%; 
+}
+
+body {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 40px;
+  font-weight: lighter;
+}
+
+hr {
+  max-width: 65px;
+  border-width: 3px;
+  border-color: #F05F44; 
+}
+
+.faded {
+  color: rgba(255, 255, 255, 0.9); 
+}
+
+
+header.startup {
+  background-position: center;
+  background-image: url("contemporary-dark-electronics-234527.jpg");
+  background-size: cover;
+  height: 100%;
+}
+
+header.startup hr {
+  margin-top: 80px;
+  margin-bottom: 20px; 
+}
+
+header.startup h1 {
+  font-size: 2rem; 
+}
+
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 200px;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.btn-xl {
+  padding: 1rem 2rem; 
+}
+
+.btn-primary {
+  background-color: #737273;
+  border-color: #737273; }
+
+.btn-primary:hover {
+  background-color: #8A8A8A;
+  border-color: #8A8A8A;
+  border-width: 6px;
+  cursor: pointer;
+}
+  
